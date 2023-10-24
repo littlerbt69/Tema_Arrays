@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="Tema arrays">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios_Prueba/Invertir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios_Prueba/Notas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios_Prueba/Prueba1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios_Prueba/Recorrido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2X9pOdSbqmPbXlGb78WfjLbmfuJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,6 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698051118797</updated>
       <workItem from="1698051119787" duration="4812000" />
+      <workItem from="1698145920342" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="Tema arrays">
       <option name="closed" value="true" />
