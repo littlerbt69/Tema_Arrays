@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="Tema arrays">
-      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios_Prueba/Ordenado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Boletin_1/Ej1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boletin_1/Ej1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Boletin_1/Ej4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boletin_1/Ej4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Alumno/IdeaProjects/Tema_Arrays/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -62,6 +61,12 @@
       <workItem from="1698051119787" duration="4812000" />
       <workItem from="1698145920342" duration="756000" />
       <workItem from="1698218582852" duration="1375000" />
+      <workItem from="1698220798418" duration="349000" />
+      <workItem from="1698221152469" duration="26000" />
+      <workItem from="1698221185144" duration="35000" />
+      <workItem from="1698221284355" duration="54000" />
+      <workItem from="1698221455662" duration="451000" />
+      <workItem from="1698221919531" duration="2062000" />
     </task>
     <task id="LOCAL-00001" summary="Tema arrays">
       <option name="closed" value="true" />
@@ -80,5 +85,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tema arrays" />
     <option name="LAST_COMMIT_MESSAGE" value="Tema arrays" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
