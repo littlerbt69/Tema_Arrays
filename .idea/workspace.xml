@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 25/10">
-      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 07/11">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +72,8 @@
       <workItem from="1698221919531" duration="3615000" />
       <workItem from="1698227638960" duration="3060000" />
       <workItem from="1698255639467" duration="212000" />
-      <workItem from="1699324050126" duration="1113000" />
+      <workItem from="1699324050126" duration="1426000" />
+      <workItem from="1699799968436" duration="955000" />
     </task>
     <task id="LOCAL-00001" summary="Tema arrays">
       <option name="closed" value="true" />
@@ -97,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698224968821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cambios dia 07/11">
+      <option name="closed" value="true" />
+      <created>1699325472156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699325472156</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +116,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tema arrays" />
     <MESSAGE value="cambios dia 25/10" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios dia 25/10" />
+    <MESSAGE value="cambios dia 07/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios dia 07/11" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
