@@ -4,12 +4,12 @@ public class Ej7 {
     public static void main(String[] args) {
         int[] arrayElementos = {1, 2, 5, 6, 7};
 
-        int elemento = 5;
+        int elemento = 6;
 
         if (contieneElemento(arrayElementos, elemento)) {
-            System.out.println("El elemento se encuentra en el array: " + elemento);
+            System.out.println("El elemento " + elemento + " se encuentra en el array: ");
         } else {
-            System.out.println("El elemento no se encuentra en el array: " + elemento);
+            System.out.println("El elemento " + elemento + " no se encuentra en el array: ");
         }
     }
 

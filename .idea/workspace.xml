@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 07/11">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Boletin_1/Ej7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boletin_1/Ej7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Boletin_1/Ej8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boletin_1/Ej8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
