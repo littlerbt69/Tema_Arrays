@@ -22,6 +22,7 @@ public class Laberinto {
         // Establecer la posición inicial del jugador
         posicionJugadorFila = 0;
         posicionJugadorColumna = 0;
+        //comentario prueba
     }
 
     public void imprimirLaberinto() {
