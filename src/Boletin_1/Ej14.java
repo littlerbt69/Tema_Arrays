@@ -2,19 +2,19 @@ package Boletin_1;
 
 public class Ej14 {
     private static final int CAPACIDAD_MAXIMA = 10;
-    private int[] cola;
-    private int frente; // Índice del frente de la cola
-    private int fin; // Índice del final de la cola
-    private int tamaño; // Tamaño actual de la cola
+    private static int[] cola;
+    private static int frente; // Índice del frente de la cola
+    private static int fin; // Índice del final de la cola
+    private static int tamaño; // Tamaño actual de la cola
 
-    public void iniciarCola() {
+    public static void iniciarCola() {
         cola = new int[CAPACIDAD_MAXIMA];
         frente = 0;
         fin = -1;
         tamaño = 0;
     }
 
-    public void encolar(int elemento) {
+    public static void encolar(int elemento) {
         if (tamaño < CAPACIDAD_MAXIMA) {
             fin = (fin + 1) % CAPACIDAD_MAXIMA;
             cola[fin] = elemento;
@@ -25,7 +25,7 @@ public class Ej14 {
         }
     }
 
-    public void desencolar() {
+    public static void desencolar() {
         if (tamaño > 0) {
             int elementoDesencolado = cola[frente];
             frente = (frente + 1) % CAPACIDAD_MAXIMA;
@@ -37,7 +37,7 @@ public class Ej14 {
         }
     }
 
-    private void mostrarCola() {
+    private static void mostrarCola() {
         System.out.print("Cola: ");
         int indice = frente;
         for (int i = 0; i < tamaño; i++) {
@@ -48,19 +48,17 @@ public class Ej14 {
     }
 
     public static void main(String[] args) {
-        Ej14 colaEnteros = new Ej14();
-
         // Inicializar la cola
-        colaEnteros.iniciarCola();
+        iniciarCola();
 
         // Encolar elementos
-        colaEnteros.encolar(5);
-        colaEnteros.encolar(10);
-        colaEnteros.encolar(7);
+        encolar(5);
+        encolar(10);
+        encolar(7);
 
         // Desencolar elementos
-        colaEnteros.desencolar();
-        colaEnteros.desencolar();
-        colaEnteros.desencolar();
+        desencolar();
+        desencolar();
+        desencolar();
     }
 }
