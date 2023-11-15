@@ -1,23 +1,23 @@
 package Boletin_1;
 
 public class Ej14 {
-    private static final int CAPACIDAD_MAXIMA = 10;
+    private static final int CAPACIDAD_MAXIMA = 5;
     private static int[] cola;
-    private static int frente; // Índice del frente de la cola
-    private static int fin; // Índice del final de la cola
+    private static int inicio; // Índice del frente de la cola
+    private static int limiteCola; // Índice del final de la cola
     private static int tamaño; // Tamaño actual de la cola
 
     public static void iniciarCola() {
         cola = new int[CAPACIDAD_MAXIMA];
-        frente = 0;
-        fin = -1;
+        inicio = 0;
+        limiteCola = -1;
         tamaño = 0;
     }
 
     public static void encolar(int elemento) {
         if (tamaño < CAPACIDAD_MAXIMA) {
-            fin = (fin + 1) % CAPACIDAD_MAXIMA;
-            cola[fin] = elemento;
+            limiteCola = (limiteCola + 1) % CAPACIDAD_MAXIMA;
+            cola[limiteCola] = elemento;
             tamaño++;
             mostrarCola();
         } else {
@@ -27,8 +27,8 @@ public class Ej14 {
 
     public static void desencolar() {
         if (tamaño > 0) {
-            int elementoDesencolado = cola[frente];
-            frente = (frente + 1) % CAPACIDAD_MAXIMA;
+            int elementoDesencolado = cola[inicio];
+            inicio = (inicio + 1) % CAPACIDAD_MAXIMA;
             tamaño--;
             System.out.println("Elemento desencolado: " + elementoDesencolado);
             mostrarCola();
@@ -39,7 +39,7 @@ public class Ej14 {
 
     private static void mostrarCola() {
         System.out.print("Cola: ");
-        int indice = frente;
+        int indice = inicio;
         for (int i = 0; i < tamaño; i++) {
             System.out.print(cola[indice] + " ");
             indice = (indice + 1) % CAPACIDAD_MAXIMA;

@@ -12,7 +12,7 @@ public class Ej17 {
 
         // Verificar el tamaño de la matriz original
         int filasOriginales = matrizOriginal.length;
-        int columnasOriginales = matrizOriginal[0].length;
+        int columnasOriginales = matrizOriginal.length;
 
         System.out.println("Tamaño de la matriz original: " + filasOriginales + "x" + columnasOriginales);
 
