@@ -21,7 +21,7 @@ public class Ej12 {
 
             // Últimos i elementos ya están ordenados, no necesitan ser comparados
             for (int j = 0; j < array.length - i - 1; j++) {
-                if (array[j] > array[j + 1]) {
+                if (array[j] < array[j + 1]) {
                     // Intercambiar si están en el orden incorrecto
                     int temp = array[j];
                     array[j] = array[j + 1];
