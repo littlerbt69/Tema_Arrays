@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 16/11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Boletin_1/Ej13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boletin_1/Ej13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <workItem from="1698255639467" duration="212000" />
       <workItem from="1699324050126" duration="1426000" />
       <workItem from="1699799968436" duration="955000" />
-      <workItem from="1700134008086" duration="1982000" />
+      <workItem from="1700134008086" duration="2707000" />
     </task>
     <task id="LOCAL-00001" summary="Tema arrays">
       <option name="closed" value="true" />
@@ -113,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700130936269</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="cambios dia 16/11">
+      <option name="closed" value="true" />
+      <created>1700136012074</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700136012074</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
