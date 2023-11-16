@@ -34,7 +34,7 @@ public class Ej13 {
                     mostrarPila();
                     break;
                 case 4:
-                    System.out.println("S  aliendo del programa.");
+                    System.out.println("Saliendo del programa.");
                     break;
                 default:
                     System.out.println("Opción no válida.");
