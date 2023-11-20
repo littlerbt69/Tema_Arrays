@@ -14,7 +14,7 @@ public class Ej2 {
     public static int sumaValores (int[][] matriz) {
         int suma = 0;
         for (int i = 0; i < matriz.length; i++) {
-            for (int j = 0; j < matriz.length; j++) {
+            for (int j = 0; j < matriz[i].length; j++) {
                 suma += matriz[i][j];
             }
         }

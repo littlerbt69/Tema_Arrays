@@ -17,7 +17,7 @@ public class Ej1 {
 
     public static boolean cifraNegativa(int[][] matriz) {
         for (int i = 0; i < matriz.length; i++) {
-            for (int j = 0; j < matriz.length; j++) {
+            for (int j = 0; j < matriz[i].length; j++) {
                 if (matriz[i][j] < 0) {
                     return true;
                 }
