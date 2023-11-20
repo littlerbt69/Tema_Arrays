@@ -29,7 +29,7 @@ public class Laberinto {
         for (int i = 0; i < matrizLaberinto.length; i++) {
             for (int j = 0; j < matrizLaberinto[i].length; j++) {
                 if (i == posicionJugadorFila && j == posicionJugadorColumna) {
-                    System.out.print("P ");
+                    System.out.print("$ ");
                 } else {
                     System.out.print(matrizLaberinto[i][j] + " ");
                 }
@@ -48,25 +48,25 @@ public class Laberinto {
 
     public boolean moverJugador(String direccion) {
         switch (direccion.toLowerCase()) {
-            case "arriba":
+            case "w":
                 if (posicionJugadorFila > 0 && matrizLaberinto[posicionJugadorFila - 1][posicionJugadorColumna] != PARED) {
                     posicionJugadorFila--;
                     return true;
                 }
                 break;
-            case "abajo":
+            case "s":
                 if (posicionJugadorFila < matrizLaberinto.length - 1 && matrizLaberinto[posicionJugadorFila + 1][posicionJugadorColumna] != PARED) {
                     posicionJugadorFila++;
                     return true;
                 }
                 break;
-            case "izquierda":
+            case "a":
                 if (posicionJugadorColumna > 0 && matrizLaberinto[posicionJugadorFila][posicionJugadorColumna - 1] != PARED) {
                     posicionJugadorColumna--;
                     return true;
                 }
                 break;
-            case "derecha":
+            case "d":
                 if (posicionJugadorColumna < matrizLaberinto[0].length - 1 && matrizLaberinto[posicionJugadorFila][posicionJugadorColumna + 1] != PARED) {
                     posicionJugadorColumna++;
                     return true;
@@ -91,7 +91,7 @@ public class Laberinto {
 
         while (true) {
             laberinto.imprimirLaberinto();
-            System.out.print("Ingrese la dirección (arriba, abajo, izquierda, derecha): ");
+            System.out.print("Ingrese la dirección (w, s, a, d): ");
             String direccion = scanner.nextLine();
 
             if (laberinto.moverJugador(direccion)) {
