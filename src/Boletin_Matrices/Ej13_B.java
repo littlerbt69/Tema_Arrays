@@ -2,11 +2,15 @@ package Boletin_Matrices;
 
 public class Ej13_B {
     public static void main(String[] args) {
-        int[][] miMatrizA = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        int[][] matriz = {
+                {1, 2, 3},
+                {4, 5, 6},
+                {7, 8, 9}
+        };
 
-        if (miMatrizA.length == miMatrizA[0].length) {
-            int[][] miMatrizB = invertirMatriz(miMatrizA);
-
+        if (matriz.length == matriz[0].length) {
+            int[][] matriz2 = invertirMatriz(matriz);
+            imprimirMatriz(matriz2);
         } else {
             System.out.println("La matriz dada no es cuadrada, no se procederá con la inversión.");
         }
@@ -24,5 +28,16 @@ public class Ej13_B {
         }
 
         return matrizInv;
+    }
+
+    // Método para imprimir una matriz
+    private static void imprimirMatriz(int[][] matriz) {
+        for (int i = 0; i < matriz.length; i++) {
+            for (int j = 0; j < matriz[0].length; j++) {
+                System.out.print(matriz[i][j] + " ");
+            }
+            System.out.println();
+        }
+        System.out.println();
     }
 }
