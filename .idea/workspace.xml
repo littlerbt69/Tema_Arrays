@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 20/11">
-      <change afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_11_2023_10_23__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_11_2023_10_23__Changes_.xml" afterDir="false" />
+    <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 21/11">
+      <change afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +75,8 @@
       <workItem from="1700134008086" duration="2721000" />
       <workItem from="1700437614974" duration="2702000" />
       <workItem from="1700440857085" duration="627000" />
-      <workItem from="1700568683236" duration="2614000" />
+      <workItem from="1700568683236" duration="2657000" />
+      <workItem from="1700581582639" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="Tema arrays">
       <option name="closed" value="true" />
@@ -169,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700440539637</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="cambios dia 21/11">
+      <option name="closed" value="true" />
+      <created>1700571344636</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700571344636</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +186,8 @@
     <MESSAGE value="cambios dia 07/11" />
     <MESSAGE value="cambios dia 16/11" />
     <MESSAGE value="cambios dia 20/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios dia 20/11" />
+    <MESSAGE value="cambios dia 21/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios dia 21/11" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
