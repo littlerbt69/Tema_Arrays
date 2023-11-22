@@ -1,12 +1,18 @@
 package Boletin_Matrices;
 
+import java.util.Scanner;
+
 public class Ej15 {
     public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in);
+
         int filas = 6;
         int columnas = 6;
 
-        int filaNumero = 1;
-        int columnaNumero = 5;
+        System.out.println("Introduce la fila del valor que quieras saber: ");
+        int filaNumero = teclado.nextInt();
+        System.out.println("Introduce la columna del valor que quieras saber: ");
+        int columnaNumero = teclado.nextInt();
 
         int numeroCasilla = obtenerNumero(filaNumero, columnaNumero, filas, columnas);
 

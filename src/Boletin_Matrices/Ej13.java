@@ -28,9 +28,7 @@ public class Ej13 {
 
     // Método para comprobar si la matriz es cuadrada
     private static boolean esMatrizCuadrada(int[][] matriz) {
-        int filas = matriz.length;
-        int columnas = matriz[0].length;
-        return filas == columnas;
+        return matriz.length == matriz[0].length;
     }
 
     // Método para reflejar la matriz en diagonal

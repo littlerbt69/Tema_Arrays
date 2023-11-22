@@ -10,21 +10,32 @@ public class Ej9 {
 
         };
 
-        if (comprobarSimetriaX(matriz)) {
-            System.out.println("La matriz es simetrica en base a su eje X");
+        if (esMatrizCuadrada(matriz) && comprobarSimetriaX(matriz)) {
+            System.out.println("La matriz es simétrica en base a su eje X");
         } else {
-            System.out.println("La matriz no es simetrica en base a su eje X");
+            System.out.println("La matriz no es simétrica en base a su eje X o no es cuadrada");
         }
     }
 
+    public static boolean esMatrizCuadrada(int[][] matriz) {
+        for (int i = 0; i < matriz.length; i++) {
+            if (matriz.length != matriz[i].length) {
+                return false;
+            }
+        }
+        return true;
+    }
+
     public static boolean comprobarSimetriaX (int[][] matriz) {
-        if (matriz.length != matriz[0].length) {
+
+        if (!esMatrizCuadrada(matriz)) {
             return false;
         }
 
+        //Recorre la matriz hasta la mitad
         for (int i = 0; i < matriz.length / 2; i++) {
             for (int j = 0; j < matriz[i].length; j++) {
-                if (matriz[i][j] != matriz[matriz.length -1 -i][j]) {
+                    if (matriz[i][j] != matriz[matriz.length -1 -i][j]) {
                     return false;
                 }
             }
