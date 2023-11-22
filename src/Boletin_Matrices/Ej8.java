@@ -9,7 +9,7 @@ public class Ej8 {
 
         int[][] matrizB = {
                 {3, 4, 5},
-                {6, 7, 8,}
+                {6, 7, 8}
         };
 
         if (!verificarTamaño(matrizA, matrizB)) {
@@ -21,8 +21,10 @@ public class Ej8 {
 
         System.out.println("Primera matriz: ");
         imprimeMatriz(matrizA);
+
         System.out.println("\nSegunda matriz: ");
         imprimeMatriz(matrizB);
+
         System.out.println("\nResultado de la suma: ");
         imprimeMatriz(resultado);
 
@@ -30,13 +32,10 @@ public class Ej8 {
     }
 
     public static int[][] sumaMatriz (int[][] matrizA, int[][] matrizB) {
-        int filas = matrizA.length;
-        int columnas = matrizA[0].length;
+        int[][] resultado = new int[matrizA.length][matrizB[0].length];
 
-        int[][] resultado = new int[filas][columnas];
-
-        for (int i = 0; i < filas; i++) {
-            for (int j = 0; j < columnas; j++){
+        for (int i = 0; i < matrizA.length; i++) {
+            for (int j = 0; j < matrizA[0].length; j++){
                 resultado[i][j] = matrizA[i][j] + matrizB[i][j];
             }
         }
@@ -52,7 +51,15 @@ public class Ej8 {
         }
     }
 
-    public static boolean verificarTamaño (int[][] matrizA, int[][] matrizB) {
-        return (matrizA.length == matrizB.length) && (matrizA[0].length == matrizB[0].length);
+    public static boolean verificarTamaño(int[][] matrizA, int[][] matrizB) {
+        if (matrizA.length != matrizB.length) {
+            return false; // Diferente número de filas
+        }
+
+        if (matrizA[0].length != matrizB[0].length) {
+            return false; // Diferente número de columnas
+        }
+
+        return true;
     }
 }

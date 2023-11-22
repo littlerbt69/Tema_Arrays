@@ -13,7 +13,7 @@ public class Ej10 {
         if (esMatrizSimetricaY(matriz)) {
             System.out.println("La matriz es simétrica en base a su eje Y");
         } else {
-            System.out.println("La matriz no es simétrica en base a su eje Y");
+            System.out.println("La matriz no es simétrica en base a su eje Y o no es cuadrada");
         }
     }
 

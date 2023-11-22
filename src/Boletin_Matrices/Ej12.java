@@ -15,7 +15,7 @@ public class Ej12 {
 
         int[][] matrizReflejada = matrizReflejada(matriz);
 
-        if (matrizCuadrada(matriz)) {
+        if (esMatrizCuadrada(matriz)) {
             System.out.println("La matriz reflejada es la siguiente: ");
             imprimeMatriz(matrizReflejada);
         } else {
@@ -25,26 +25,26 @@ public class Ej12 {
 
     public static int[][] matrizReflejada (int[][] matriz) {
 
-        if (!matrizCuadrada(matriz)) {
+        if (!esMatrizCuadrada(matriz)) {
             return null;
         }
 
-        int n = matriz.length;
-        int[][] matrizReflejada = new int[n][n];
+        int[][] matrizReflejada = new int[matriz.length][matriz[0].length];
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+        for (int i = 0; i < matriz.length; i++) {
+            for (int j = 0; j < matriz[i].length; j++) {
                 matrizReflejada[i][j] = matriz[j][i];
             }
         }
         return matrizReflejada;
     }
 
-    public static boolean matrizCuadrada (int[][] matriz) {
-        if (matriz == null || matriz.length == 0) {
-            return false;
+    public static boolean esMatrizCuadrada(int[][] matriz) {
+        for (int i = 0; i < matriz.length; i++) {
+            if (matriz.length != matriz[i].length) {
+                return false;
+            }
         }
-
         return matriz.length == matriz[0].length;
     }
 
