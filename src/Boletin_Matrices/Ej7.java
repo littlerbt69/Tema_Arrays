@@ -4,12 +4,14 @@ public class Ej7 {
     public static void main(String[] args) {
         int[][] matriz1 = {
                 {1, 2, 3},
-                {4, 5, 6}
+                {4, 5, 6},
+                {7, 8, 9}
         };
 
         int[][] matriz2 = {
                 {1, 2, 3},
-                {4, 5, 6}
+                {4, 5, 6},
+                {7, 8, 9}
         };
 
         if (sonMatricesIguales(matriz1, matriz2)) {
@@ -17,11 +19,22 @@ public class Ej7 {
         } else {
             System.out.println("Las matrices no son iguales");
         }
+
+        if (esMatrizCuadrada(matriz1)) {
+            System.out.println("\nLa matriz1 es cuadrada");
+        } else {
+            System.out.println("La matriz1 no es cuadrada");
+        }
+
+        if (esMatrizCuadrada(matriz2)) {
+            System.out.println("La matriz2 es cuadrada");
+        } else {
+            System.out.println("La matriz2 no es cuadrada");
+        }
     }
 
     public static boolean sonMatricesIguales(int[][] matriz1, int[][] matriz2) {
-        //Comprueba si las matrices son iguales de dimensiones
-        if (matriz1.length != matriz2.length || matriz1[0].length != matriz2[0].length) {
+        if (matriz1.length != matriz2.length && matriz1[0].length != matriz2[0].length) {
             return false;
         }
 
@@ -33,5 +46,10 @@ public class Ej7 {
             }
         }
         return true;
+    }
+
+    public static boolean esMatrizCuadrada(int[][] matriz) {
+        // Comprueba si la matriz es cuadrada
+        return matriz.length == matriz[0].length;
     }
 }

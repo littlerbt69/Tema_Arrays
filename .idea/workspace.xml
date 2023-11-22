@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 21/11">
+    <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 20/11">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_11_2023_12_13__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_11_2023_12_13__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Boletin_Matrices/Ej13_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej13_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Boletin_Matrices/Ej13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Boletin_Matrices/Ej7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boletin_Matrices/Ej7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +50,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Alumno/IdeaProjects/Tema_Arrays/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -71,14 +75,9 @@
       <workItem from="1698255639467" duration="212000" />
       <workItem from="1699324050126" duration="1426000" />
       <workItem from="1699799968436" duration="955000" />
-      <workItem from="1700134008086" duration="2721000" />
-      <workItem from="1700437614974" duration="2702000" />
-      <workItem from="1700440857085" duration="627000" />
-      <workItem from="1700568683236" duration="2657000" />
-      <workItem from="1700581582639" duration="702000" />
-      <workItem from="1700585322554" duration="724000" />
-      <workItem from="1700586205750" duration="2810000" />
-      <workItem from="1700589736236" duration="1484000" />
+      <workItem from="1699872869266" duration="2803000" />
+      <workItem from="1700036361670" duration="9990000" />
+      <workItem from="1700477693635" duration="2686000" />
     </task>
     <task id="LOCAL-00001" summary="Tema arrays">
       <option name="closed" value="true" />
@@ -112,108 +111,95 @@
       <option name="project" value="LOCAL" />
       <updated>1699325472156</updated>
     </task>
-    <task id="LOCAL-00005" summary="cambios dia 16/11">
+    <task id="LOCAL-00005" summary="cambios dia 13/11">
       <option name="closed" value="true" />
-      <created>1700130936269</created>
+      <created>1699870451687</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1700130936269</updated>
+      <updated>1699870451687</updated>
     </task>
-    <task id="LOCAL-00006" summary="cambios dia 16/11">
+    <task id="LOCAL-00006" summary="cambios dia 13/11">
       <option name="closed" value="true" />
-      <created>1700136012074</created>
+      <created>1699875491895</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1700136012074</updated>
+      <updated>1699875491895</updated>
     </task>
-    <task id="LOCAL-00007" summary="cambios dia 16/11">
+    <task id="LOCAL-00007" summary="cambios dia 15/11">
       <option name="closed" value="true" />
-      <created>1700136740884</created>
+      <created>1700036613776</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1700136740884</updated>
+      <updated>1700036613776</updated>
     </task>
-    <task id="LOCAL-00008" summary="cambios dia 16/11">
+    <task id="LOCAL-00008" summary="cambios dia 15/11">
       <option name="closed" value="true" />
-      <created>1700438176877</created>
+      <created>1700036647556</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1700438176877</updated>
+      <updated>1700036647556</updated>
     </task>
-    <task id="LOCAL-00009" summary="cambios dia 16/11">
+    <task id="LOCAL-00009" summary="cambios dia 15/11">
       <option name="closed" value="true" />
-      <created>1700438187531</created>
+      <created>1700043300317</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1700438187531</updated>
+      <updated>1700043300317</updated>
     </task>
-    <task id="LOCAL-00010" summary="cambios dia 20/11">
+    <task id="LOCAL-00010" summary="cambios dia 15/11">
       <option name="closed" value="true" />
-      <created>1700439994923</created>
+      <created>1700045463327</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1700439994923</updated>
+      <updated>1700045463327</updated>
     </task>
     <task id="LOCAL-00011" summary="cambios dia 20/11">
       <option name="closed" value="true" />
-      <created>1700440539637</created>
+      <created>1700474579197</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1700440539637</updated>
+      <updated>1700474579197</updated>
     </task>
-    <task id="LOCAL-00012" summary="cambios dia 21/11">
+    <task id="LOCAL-00012" summary="cambios dia 20/11">
       <option name="closed" value="true" />
-      <created>1700571344636</created>
+      <created>1700480282778</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1700571344636</updated>
+      <updated>1700480282778</updated>
     </task>
-    <task id="LOCAL-00013" summary="cambios dia 21/11">
-      <option name="closed" value="true" />
-      <created>1700582282068</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1700582282068</updated>
-    </task>
-    <task id="LOCAL-00014" summary="cambios dia 21/11">
-      <option name="closed" value="true" />
-      <created>1700589700660</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1700589700660</updated>
-    </task>
-    <task id="LOCAL-00015" summary="cambios dia 21/11">
-      <option name="closed" value="true" />
-      <created>1700590720039</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1700590720039</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tema arrays" />
     <MESSAGE value="cambios dia 25/10" />
     <MESSAGE value="cambios dia 07/11" />
-    <MESSAGE value="cambios dia 16/11" />
+    <MESSAGE value="cambios dia 13/11" />
+    <MESSAGE value="cambios dia 15/11" />
     <MESSAGE value="cambios dia 20/11" />
-    <MESSAGE value="cambios dia 21/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios dia 21/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios dia 20/11" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

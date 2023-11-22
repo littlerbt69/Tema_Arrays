@@ -1,0 +1,116 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47_[Changes]/shelved.patch	(revision 534fcf2af1d1fc3c76e268452dd89793fe0e34ca)
++++ /dev/null	(revision 534fcf2af1d1fc3c76e268452dd89793fe0e34ca)
+@@ -1,61 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0\" name=\"Changes\" comment=\"cambios dia 07/11\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Boletin_1/Ej12.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Boletin_1/Ej13.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Boletin_1/Ej14.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2X9pOdSbqmPbXlGb78WfjLbmfuJ\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Alumno/IdeaProjects/Tema_Arrays/src/Main.java&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0\" name=\"Changes\" comment=\"\" />\r\n      <created>1698051118797</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1698051118797</updated>\r\n      <workItem from=\"1698051119787\" duration=\"4812000\" />\r\n      <workItem from=\"1698145920342\" duration=\"756000\" />\r\n      <workItem from=\"1698218582852\" duration=\"1375000\" />\r\n      <workItem from=\"1698220798418\" duration=\"349000\" />\r\n      <workItem from=\"1698221152469\" duration=\"26000\" />\r\n      <workItem from=\"1698221185144\" duration=\"35000\" />\r\n      <workItem from=\"1698221284355\" duration=\"54000\" />\r\n      <workItem from=\"1698221455662\" duration=\"451000\" />\r\n      <workItem from=\"1698221919531\" duration=\"3615000\" />\r\n      <workItem from=\"1698227638960\" duration=\"3060000\" />\r\n      <workItem from=\"1698255639467\" duration=\"212000\" />\r\n      <workItem from=\"1699324050126\" duration=\"1426000\" />\r\n      <workItem from=\"1699799968436\" duration=\"955000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Tema arrays\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1698051215239</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1698051215239</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Tema arrays\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1698224035978</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1698224035978</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"cambios dia 25/10\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1698224968821</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1698224968821</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"cambios dia 07/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1699325472156</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1699325472156</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Tema arrays\" />\r\n    <MESSAGE value=\"cambios dia 25/10\" />\r\n    <MESSAGE value=\"cambios dia 07/11\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"cambios dia 07/11\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision f40b5927eefce278d2ff3e74ab09ff282a687946)
+-+++ b/.idea/workspace.xml	(date 1699801003993)
+-@@ -4,13 +4,7 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 07/11">
+--      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej12.java" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej13.java" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/Boletin_1/Ej14.java" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--    </list>
+-+    <list default="true" id="dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0" name="Changes" comment="cambios dia 12/11" />
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -73,7 +67,7 @@
+-       <workItem from="1698227638960" duration="3060000" />
+-       <workItem from="1698255639467" duration="212000" />
+-       <workItem from="1699324050126" duration="1426000" />
+--      <workItem from="1699799968436" duration="955000" />
+-+      <workItem from="1699799968436" duration="1026000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="Tema arrays">
+-       <option name="closed" value="true" />
+-@@ -107,7 +101,15 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1699325472156</updated>
+-     </task>
+--    <option name="localTasksCounter" value="5" />
+-+    <task id="LOCAL-00005" summary="cambios dia 12/11">
+-+      <option name="closed" value="true" />
+-+      <created>1699800989616</created>
+-+      <option name="number" value="00005" />
+-+      <option name="presentableId" value="LOCAL-00005" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1699800989616</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="6" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -117,7 +119,8 @@
+-     <MESSAGE value="Tema arrays" />
+-     <MESSAGE value="cambios dia 25/10" />
+-     <MESSAGE value="cambios dia 07/11" />
+--    <option name="LAST_COMMIT_MESSAGE" value="cambios dia 07/11" />
+-+    <MESSAGE value="cambios dia 12/11" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="cambios dia 12/11" />
+-   </component>
+-   <component name="XSLT-Support.FileAssociations.UIState">
+-     <expand />
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47__Changes_.xml	(revision 534fcf2af1d1fc3c76e268452dd89793fe0e34ca)
++++ /dev/null	(revision 534fcf2af1d1fc3c76e268452dd89793fe0e34ca)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_14_11_2023_20_47_[Changes]" date="1699991272604" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_2023_20_47_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 14/11/2023 20:47 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0\" name=\"Changes\" comment=\"cambios dia 20/11\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2X9pOdSbqmPbXlGb78WfjLbmfuJ\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Alumno/IdeaProjects/Tema_Arrays/src/Main.java&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"dc3a41a7-e8d8-48d9-b109-d33fdefd0ae0\" name=\"Changes\" comment=\"\" />\r\n      <created>1698051118797</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1698051118797</updated>\r\n      <workItem from=\"1698051119787\" duration=\"4812000\" />\r\n      <workItem from=\"1698145920342\" duration=\"756000\" />\r\n      <workItem from=\"1698218582852\" duration=\"1375000\" />\r\n      <workItem from=\"1698220798418\" duration=\"349000\" />\r\n      <workItem from=\"1698221152469\" duration=\"26000\" />\r\n      <workItem from=\"1698221185144\" duration=\"35000\" />\r\n      <workItem from=\"1698221284355\" duration=\"54000\" />\r\n      <workItem from=\"1698221455662\" duration=\"451000\" />\r\n      <workItem from=\"1698221919531\" duration=\"3615000\" />\r\n      <workItem from=\"1698227638960\" duration=\"3060000\" />\r\n      <workItem from=\"1698255639467\" duration=\"212000\" />\r\n      <workItem from=\"1699324050126\" duration=\"1426000\" />\r\n      <workItem from=\"1699799968436\" duration=\"955000\" />\r\n      <workItem from=\"1699872869266\" duration=\"2803000\" />\r\n      <workItem from=\"1700036361670\" duration=\"9990000\" />\r\n      <workItem from=\"1700477693635\" duration=\"2686000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Tema arrays\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1698051215239</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1698051215239</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Tema arrays\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1698224035978</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1698224035978</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"cambios dia 25/10\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1698224968821</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1698224968821</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"cambios dia 07/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1699325472156</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1699325472156</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"cambios dia 13/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1699870451687</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1699870451687</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"cambios dia 13/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1699875491895</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1699875491895</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"cambios dia 15/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700036613776</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700036613776</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"cambios dia 15/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700036647556</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700036647556</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"cambios dia 15/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700043300317</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700043300317</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"cambios dia 15/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700045463327</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700045463327</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"cambios dia 20/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700474579197</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700474579197</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"cambios dia 20/11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700480282778</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700480282778</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"13\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Tema arrays\" />\r\n    <MESSAGE value=\"cambios dia 25/10\" />\r\n    <MESSAGE value=\"cambios dia 07/11\" />\r\n    <MESSAGE value=\"cambios dia 13/11\" />\r\n    <MESSAGE value=\"cambios dia 15/11\" />\r\n    <MESSAGE value=\"cambios dia 20/11\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"cambios dia 20/11\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 534fcf2af1d1fc3c76e268452dd89793fe0e34ca)
++++ b/.idea/workspace.xml	(date 1700480651533)
+@@ -70,7 +70,7 @@
+       <workItem from="1699799968436" duration="955000" />
+       <workItem from="1699872869266" duration="2803000" />
+       <workItem from="1700036361670" duration="9990000" />
+-      <workItem from="1700477693635" duration="2686000" />
++      <workItem from="1700477693635" duration="2927000" />
+     </task>
+     <task id="LOCAL-00001" summary="Tema arrays">
+       <option name="closed" value="true" />
+@@ -168,7 +168,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1700480282778</updated>
+     </task>
+-    <option name="localTasksCounter" value="13" />
++    <task id="LOCAL-00013" summary="cambios dia 20/11">
++      <option name="closed" value="true" />
++      <created>1700480645912</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1700480645912</updated>
++    </task>
++    <option name="localTasksCounter" value="14" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
