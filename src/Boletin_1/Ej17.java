@@ -3,7 +3,6 @@ package Boletin_1;
 public class Ej17 {
 
     public static void main(String[] args) {
-        // Definir matrices originales
         int[][] matrizOriginal = {
                 {1, 2, 3},
                 {4, 5, 6},
@@ -16,10 +15,8 @@ public class Ej17 {
 
         System.out.println("Tamaño de la matriz original: " + filasOriginales + "x" + columnasOriginales);
 
-        // Crear una nueva matriz con el mismo tamaño que la original
         int[][] matrizCopia = new int[filasOriginales][columnasOriginales];
 
-        // Verificar el tamaño de la matriz copia
         int filasCopia = matrizCopia.length;
         int columnasCopia = matrizCopia[0].length;
 
